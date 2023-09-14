@@ -1,5 +1,5 @@
 title: Arkendu Roy
 logo: /Repo/Img/np.png
-#description: text below image
-show_downloads: tr ue
+description: text below image
+show_downloads: true
 theme: jekyll-theme-minimal
